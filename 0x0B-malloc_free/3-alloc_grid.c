@@ -3,6 +3,7 @@
 
 /*
  * alloc_grid - nested loop to make grid
+ * alloc_grid - function
  * @width: width input
  * @height: height input
  * Return: pointer to 2 dim. array
